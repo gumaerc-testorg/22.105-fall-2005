@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource discusses about inductance, calculating the inductance
   and equivalence of the two definitions.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/22-105-electromagnetic-interactions-fall-2005/544db8af2148acb1cc42aa4f7e24e0f6_lecture7.pdf
+file: /media/courses/22-105-electromagnetic-interactions-fall-2005/544db8af2148acb1cc42aa4f7e24e0f6_lecture7.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lecture7.pdf
 uid: 544db8af-2148-acb1-cc42-aa4f7e24e0f6
