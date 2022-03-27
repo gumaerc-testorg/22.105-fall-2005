@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: b32a02ab-4ece-7a9e-d1ec-dbdcd34019a1
 resourcetype: Document
 title: chap6.pdf
 uid: 74c72356-f2f4-f5f0-0f6b-00e8c2c2da99
