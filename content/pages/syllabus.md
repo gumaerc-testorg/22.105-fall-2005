@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section brings the information about description, textbooks, problem
+  sets, exams, grading and calendar.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -16,7 +18,7 @@ Description
 
 This course discusses principles and applications of electromagnetism, starting from Maxwell's equations, with emphasis on phenomena important to nuclear engineering and radiation sciences, solution methods for electrostatic and magnetostatic fields, charged particle motion in those fields, particle acceleration and focusing and collisions with charged particles and atoms. It also covers electromagnetic waves, wave emission by accelerated particles, Bremsstrahlung, Compton scattering, photoionization, and elementary applications to ranging, shielding, imaging, and radiation effects.
 
-22.105 Curriculum Outline ([PDF]({{< baseurl >}}/resources/overview))
+22.105 Curriculum Outline ({{% resource_link d475e8e7-3c04-52bb-1ad3-defdbc04121e "PDF" %}})
 
 Textbooks
 ---------
