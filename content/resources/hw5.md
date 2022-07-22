@@ -6,6 +6,7 @@ file: /courses/22-105-electromagnetic-interactions-fall-2005/f8cd87b946a9f61bfe3
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hw5.pdf
 uid: f8cd87b9-46a9-f61b-fe37-b373eac8c808
 ---
 This resource contains problems on attenuation length, properties ofthe transmission line and dispersion relation for TM waves in a rectangular waveguide.
-

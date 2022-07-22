@@ -7,6 +7,7 @@ file: /courses/22-105-electromagnetic-interactions-fall-2005/80cd1b4af1a0bff5c64
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: chap2.pdf
 uid: 80cd1b4a-f1a0-bff5-c641-360fd26cdb2d
 ---
 Supplemental notes on the following topics: Electric Field Alone, Electrostatic Acceleration and Focussing, Uniform Magnetic field, Dynamic Accelerators, Magnetic Quadrupole Focussing (Alternating Gradient).
-

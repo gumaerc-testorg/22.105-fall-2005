@@ -5,6 +5,7 @@ file: /courses/22-105-electromagnetic-interactions-fall-2005/eefb40eb4650f470bd4
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lecture1.pdf
 uid: eefb40eb-4650-f470-bd44-b7caf3ba9356
 ---
 Outline of topics covered in the lecture.
-

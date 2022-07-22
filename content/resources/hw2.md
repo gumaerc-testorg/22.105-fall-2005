@@ -6,6 +6,7 @@ file: /courses/22-105-electromagnetic-interactions-fall-2005/696f6aee0fa5855c04d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hw2.pdf
 uid: 696f6aee-0fa5-855c-04de-1721797299d1
 ---
 This resource contains problems on electric field behaviour around a noncircular conducting electrode, radial electric field and Green's theorem.
-

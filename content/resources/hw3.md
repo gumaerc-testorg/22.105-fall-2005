@@ -6,6 +6,7 @@ file: /courses/22-105-electromagnetic-interactions-fall-2005/12078bf8d583a79c138
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: hw3.pdf
 uid: 12078bf8-d583-a79c-1386-99cbcbd8ea4b
 ---
 This resource contains problems on vector potential at an arbitrary observation point, inductance of a loop and longitudinal magnetic field.
-

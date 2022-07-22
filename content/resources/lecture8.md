@@ -6,6 +6,7 @@ file: /courses/22-105-electromagnetic-interactions-fall-2005/f2872752aaa9478ff25
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture8.pdf
 uid: f2872752-aaa9-478f-f251-ea3397b00c16
 ---
 This resource discusses about Faraday?s law, derivation of Faraday?s law and application to a solenoid.
-

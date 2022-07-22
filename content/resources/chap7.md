@@ -6,6 +6,7 @@ file: /courses/22-105-electromagnetic-interactions-fall-2005/d6e432ae955f2a598e6
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: chap7.pdf
 uid: d6e432ae-955f-2a59-8e67-c983e42704ab
 ---
 Supplemental notes covering the following topics: Bremsstrahlung, Cerenkov Radiation.
-

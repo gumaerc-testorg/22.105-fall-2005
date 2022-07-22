@@ -6,6 +6,7 @@ file: /courses/22-105-electromagnetic-interactions-fall-2005/0c448dade1727bbb9f1
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lecture2.pdf
 uid: 0c448dad-e172-7bbb-9f18-2e3c2a048668
 ---
 This resource discusses about today?s topics, overview and simple 1-D problems.
-
