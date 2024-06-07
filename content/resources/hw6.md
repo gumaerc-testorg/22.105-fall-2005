@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains problems on dispersion relation and Brewster angle.
 file: /courses/22-105-electromagnetic-interactions-fall-2005/599318079d99abfb8132bd42886eb7c0_hw6.pdf
+file_size: 27324
 file_type: application/pdf
 learning_resource_types:
 - Assignments

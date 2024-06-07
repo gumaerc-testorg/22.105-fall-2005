@@ -3,6 +3,7 @@ content_type: resource
 description: This resource discusses about introduction, Maxwell?s equations, historical
   note, auxiliary fields and electromagnetic media and vector calculus and notation.
 file: /courses/22-105-electromagnetic-interactions-fall-2005/00792e7e1aa2eae67ddae270022c044f_chap1.pdf
+file_size: 5861740
 file_type: application/pdf
 learning_resource_types:
 - Readings

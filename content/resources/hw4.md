@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains problems on electrostatic potential, expansion
   coefficients and focal point of a lens.
 file: /courses/22-105-electromagnetic-interactions-fall-2005/0715e56773ee428fbacf47377caa26db_hw4.pdf
+file_size: 105303
 file_type: application/pdf
 learning_resource_types:
 - Assignments
