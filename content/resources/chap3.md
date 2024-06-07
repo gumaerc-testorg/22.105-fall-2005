@@ -4,6 +4,7 @@ description: 'Supplemental notes covering the following topics: Maxwell Displace
   Current, Field Dynamics, Energy and Momentum, Inductance, Energy, and Magnet Stresses,
   Potentials for Time Varying Fields.'
 file: /courses/22-105-electromagnetic-interactions-fall-2005/c2f968d15662cff0b755fd027d18582e_chap3.pdf
+file_size: 295792
 file_type: application/pdf
 learning_resource_types:
 - Readings
