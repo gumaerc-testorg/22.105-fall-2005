@@ -3,6 +3,7 @@ content_type: resource
 description: This resource discusses about elementary atomic structure, atomic processes
   in electromagnetic interactions and The photoelectric effect.
 file: /courses/22-105-electromagnetic-interactions-fall-2005/d7404ad11cf6ab5f61fd08e32528469e_chap5.pdf
+file_size: 214816
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
