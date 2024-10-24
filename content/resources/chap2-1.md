@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses about electric field alone, electrostatic acceleration
   and focussing and immersion lens.
-file: /courses/22-105-electromagnetic-interactions-fall-2005/a676aa31d6d7a776f1ac17a6f60f2c0b_chap2.pdf
+file: /ol-ocw-studio-app/courses/22-105-electromagnetic-interactions-fall-2005/a676aa31d6d7a776f1ac17a6f60f2c0b_chap2.pdf
 file_size: 459519
 file_type: application/pdf
 learning_resource_types:
