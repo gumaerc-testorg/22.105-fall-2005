@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Outline of topics covered in the lecture.
-file: /ol-ocw-studio-app/courses/22-105-electromagnetic-interactions-fall-2005/5ea5ca180e88968ff3ed03af69e33d0d_lecture3.pdf
+file: /courses/22-105-electromagnetic-interactions-fall-2005/5ea5ca180e88968ff3ed03af69e33d0d_lecture3.pdf
 file_size: 152364
 file_type: application/pdf
 learning_resource_types:

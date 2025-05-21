@@ -3,7 +3,7 @@ content_type: resource
 description: 'Supplemental notes covering the following topics: Elementary atomic
   structure, Atomic processes in electromagnetic interactions, The Photoelectric Effect,
   Electrons and Pair Production.'
-file: /ol-ocw-studio-app/courses/22-105-electromagnetic-interactions-fall-2005/70ba938d69dbdb2d5f6803e9ad424031_chap5.pdf
+file: /courses/22-105-electromagnetic-interactions-fall-2005/70ba938d69dbdb2d5f6803e9ad424031_chap5.pdf
 file_size: 211341
 file_type: application/pdf
 learning_resource_types:

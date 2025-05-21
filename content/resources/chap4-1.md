@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses about potentials and Fields of a moving point
   charge and potential of a point charge in uniform motion.
-file: /ol-ocw-studio-app/courses/22-105-electromagnetic-interactions-fall-2005/68471df1fd5a40f89c646b152c9a3691_chap4.pdf
+file: /courses/22-105-electromagnetic-interactions-fall-2005/68471df1fd5a40f89c646b152c9a3691_chap4.pdf
 file_size: 929202
 file_type: application/pdf
 learning_resource_types:

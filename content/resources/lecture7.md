@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses about inductance, calculating the inductance
   and equivalence of the two definitions.
-file: /ol-ocw-studio-app/courses/22-105-electromagnetic-interactions-fall-2005/544db8af2148acb1cc42aa4f7e24e0f6_lecture7.pdf
+file: /courses/22-105-electromagnetic-interactions-fall-2005/544db8af2148acb1cc42aa4f7e24e0f6_lecture7.pdf
 file_size: 156999
 file_type: application/pdf
 learning_resource_types:
