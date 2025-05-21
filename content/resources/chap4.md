@@ -4,7 +4,7 @@ description: 'Supplemental notes covering the following topics: Potentials and F
   of a moving point charge, Potential of a Point Charge in Uniform Motion, Fields
   of a Generally-Moving Charge, Radiation from Moving Charges, Radiation from Relativistic
   Particles.'
-file: /ol-ocw-studio-app/courses/22-105-electromagnetic-interactions-fall-2005/055c4b3f7f730d6270e4e2664a589286_chap4.pdf
+file: /courses/22-105-electromagnetic-interactions-fall-2005/055c4b3f7f730d6270e4e2664a589286_chap4.pdf
 file_size: 930794
 file_type: application/pdf
 learning_resource_types:

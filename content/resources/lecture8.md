@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses about Faraday?s law, derivation of Faraday?s
   law and application to a solenoid.
-file: /ol-ocw-studio-app/courses/22-105-electromagnetic-interactions-fall-2005/f2872752aaa9478ff251ea3397b00c16_lecture8.pdf
+file: /courses/22-105-electromagnetic-interactions-fall-2005/f2872752aaa9478ff251ea3397b00c16_lecture8.pdf
 file_size: 143197
 file_type: application/pdf
 learning_resource_types:
