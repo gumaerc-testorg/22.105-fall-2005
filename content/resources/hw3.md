@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problems on vector potential at an arbitrary observation
   point, inductance of a loop and longitudinal magnetic field.
-file: /courses/22-105-electromagnetic-interactions-fall-2005/12078bf8d583a79c138699cbcbd8ea4b_hw3.pdf
+file: /ol-ocw-studio-app/courses/22-105-electromagnetic-interactions-fall-2005/12078bf8d583a79c138699cbcbd8ea4b_hw3.pdf
 file_size: 38396
 file_type: application/pdf
 learning_resource_types:
