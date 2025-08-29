@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource discusses about elastic collisions, reference frames and
   collision angles, impact parameter and cross-section.
-file: /courses/22-105-electromagnetic-interactions-fall-2005/884197e8dfdd2e00a90571ad4b67b8ce_chap6.pdf
+file: /ol-ocw-studio-app/courses/22-105-electromagnetic-interactions-fall-2005/884197e8dfdd2e00a90571ad4b67b8ce_chap6.pdf
 file_size: 6903815
 file_type: application/pdf
 learning_resource_types:

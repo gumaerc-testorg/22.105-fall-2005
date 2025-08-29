@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains problems on electric field behaviour around a
   noncircular conducting electrode, radial electric field and Green's theorem.
-file: /courses/22-105-electromagnetic-interactions-fall-2005/696f6aee0fa5855c04de1721797299d1_hw2.pdf
+file: /ol-ocw-studio-app/courses/22-105-electromagnetic-interactions-fall-2005/696f6aee0fa5855c04de1721797299d1_hw2.pdf
 file_size: 71077
 file_type: application/pdf
 learning_resource_types:
