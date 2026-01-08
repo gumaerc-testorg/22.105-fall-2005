@@ -34,7 +34,7 @@ Panofsky, W. K., and M. Philips. *Classical Electricity and Magnetism*. Reading,
 Evans, R. D. *The Atomic Nucleus*. Malabar, FL: Kreiger Publishing, 1982. ISBN: 9780898744149. (Reprint of 1955 McGraw-Hill edition).   
 Chapters 18-24 contain an extensive discussion of charged particle interaction with matter, energy loss, ranging, etc.
 
-Humphries, S. {{% resource_link "8f41703c-f7e9-4cc2-8616-3d331b1f533f" "*Principles of Charged Particle Accelerators*" %}}. New York, NY: J. Wiley & Sons, Inc., 1986. ISBN: 9780471878780.   
+Humphries, S. [*Principles of Charged Particle Accelerators*](https://www.amazon.com/Principles-Charged-Particle-Acceleration-Physics/dp/0486498182#:~:text=This%20authoritative%20text%20offers%20a%20unified%2C%20programmed,for%20graduate%20students%20of%20physics%20and%20electrical). New York, NY: J. Wiley & Sons, Inc., 1986. ISBN: 9780471878780.   
 Has relevant material on ion focusing and optics.
 
 Livingstone, M. S., and J. P. Blewett. *Particle Accelerators.* New York, NY: McGraw-Hill, 1962. ISBN: 1114443840.   
